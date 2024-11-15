@@ -1,4 +1,3 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>cv.md</title><style></style></head><body id="preview">
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="rsschoolcvhttpsAjlukseygithubiorsschoolcv_0"></a><a href="https://Ajluksey.github.io/rsschool-cv/">rsschool-cv</a></h1>
 <hr>
 <h1 class="code-line" data-line-start=2 data-line-end=3 ><a id="Alexey_Lubnevskyi_2"></a>Alexey Lubnevskyi</h1>
